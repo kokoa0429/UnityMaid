@@ -67,6 +67,7 @@
     <Compile Include="Assets\AcquireChan\Scripts\AcquireChanController.cs" />
     <Compile Include="Assets\AcquireChan\Scripts\MotionChanger.cs" />
     <Compile Include="Assets\AcquireChan\Scripts\SimpleFollowCam.cs" />
+    <Compile Include="Assets\CharController.cs" />
     <Compile Include="Assets\MouseController.cs" />
     <Compile Include="Assets\Touka.cs" />
     <None Include="Assets\AcquireChan\Models\Shaders\imagine_chara_parts_face.shader" />
