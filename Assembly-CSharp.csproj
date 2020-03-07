@@ -68,6 +68,7 @@
     <Compile Include="Assets\AcquireChan\Scripts\MotionChanger.cs" />
     <Compile Include="Assets\AcquireChan\Scripts\SimpleFollowCam.cs" />
     <Compile Include="Assets\CharController.cs" />
+    <Compile Include="Assets\GenerateBall.cs" />
     <Compile Include="Assets\MouseController.cs" />
     <Compile Include="Assets\Touka.cs" />
     <None Include="Assets\AcquireChan\Models\Shaders\imagine_chara_parts_face.shader" />
@@ -85,9 +86,6 @@
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/kokoa/MeidoChanv2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/kokoa/MeidoChanv2/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -289,9 +287,6 @@
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/kokoa/MeidoChanv2/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
